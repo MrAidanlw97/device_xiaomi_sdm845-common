@@ -41,7 +41,7 @@ cc_binary {
         "liblog",
         "libhardware",
         "libbinder_ndk",
-        "android.hardware.light-ndk_platform",
+        "android.hardware.light-ndk",
     ],
     srcs: [
         "aidl/Lights.cpp",
